@@ -1,0 +1,16 @@
+{
+    "name": "Mini-CMS",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+        "jquery": "~1.9.1",
+        "bootstrap": "~3.3.6",
+        "angular": "~1.5.5"
+    },
+    "devDependencies": {
+    }
+}

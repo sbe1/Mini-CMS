@@ -1,0 +1,18 @@
+/* 
+    Author     : Shawn Ewald <shawn.ewald@gmail.com>
+*/
+
+#container {max-width: 1024px;}
+#articles {margin-top: 20px;}
+.article-image-box {height: 200px; width: 200px;display: inline-block;vertical-align: top;}
+.article-image-thumb {height: 180px;vertical-align: top;}
+.article-content {height: 200px;display: inline-block;vertical-align: top;}
+.article {width: 98%;height: 310px;overflow: hidden;}
+.article-more {width: 98%;height: 1020px;overflow: visible;overflow-y: auto;}
+.article-image { padding-right: 20px;padding-bottom: 20px;}
+.readmore {clear:both;margin-top: 20px;}
+.input-field {min-width: 300px; width: 400px; max-width: 98%; border-radius: 6px;}
+.heading {border-bottom: 1px solid #000;}
+.margin_top_20 {margin-top: 20px;}
+textarea {min-height: 200px;}
+.text-bold {font-weight: bold;}
